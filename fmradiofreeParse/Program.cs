@@ -8,8 +8,6 @@ namespace fmradiofreeParse
 {
     class Program
     {
-
-
         static void Main(string[] args)
         {
             string pageUrl = "https://www.fmradiofree.com/?page=";
